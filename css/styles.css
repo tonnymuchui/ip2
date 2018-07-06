@@ -3,3 +3,33 @@
   background-size: cover;
   text-align: center;
 }
+.Breakfast {
+  background-image: url("../foodtop/breakfast.jpg");
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 150px;
+}
+.lunch {
+  background-image: url("../foodtop/lunch.jpg");
+  background-position: center;
+  background-size: 100 auto;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 150px;
+}
+.dinner {
+  background-image: url(../foodtop/dinner.jpg);
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 150px;
+}
+.to {
+  background-color: white;
+}
+.tt {
+  background-color: orange;
+}
