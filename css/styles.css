@@ -31,5 +31,20 @@
   background-color: white;
 }
 .tt {
-  background-color: orange;
+  background-color: #F15a29;
+}
+h2 {
+  line-height: 120px;
+  color: white;
+}
+.pp {
+  color: white;
+}
+h4 {
+  line-height: 120px;
+  color: white;
+}
+h5 {
+  line-height: 120px;
+  color: white;
 }
