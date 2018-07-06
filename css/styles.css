@@ -1,0 +1,5 @@
+.jumbotron {
+  background-image: url("../backgrounds/landing.jpg");
+  background-size: cover;
+  text-align: center;
+}
